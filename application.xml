@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Configuration>
+    <Payload adobeCode="{DRWV-18.0-64-ADBEADBEADBEADBEADBEADB}">
+        <!-- defaultAdobeCode for development use. -->
+        <!-- Will be filled in from productinfo.xml before building installer -->
+        <Data key="AMTConfigPath">/Applications/Adobe Dreamweaver CC 2018/AMT/application.xml</Data>
+        <Data key="APPLICATION_CUSTOMIZATION_DATA">SuppressSerialWF</Data>
+        <Data key="BridgeTalkCode">/adobe/bridgetalk/dreamweaver-18.0</Data>
+        <Data key="DefaultDriverPayload">{DRWV-18.0-64-ADBEADBEADBEADBEADBEADB}</Data>
+        <Data key="InstallDate">1511209094</Data>
+        <Data key="LicensingCode">V7{}Dreamweaver-18-Mac-GM</Data>
+        <Data key="ProductVersion">18.0</Data>
+        <Data key="SAPCode">DRWV</Data>
+        <Data key="defaultAdobeCode">{DRWV-18.0-64-ADBEADBEADBEADBEADBEADB}</Data>
+        <Data key="driverAMTConfigPath">/Applications/Adobe Dreamweaver CC 2018/AMT/application.xml</Data>
+        <Data key="driverLEID">V7{}Dreamweaver-18-Mac-GM</Data>
+        <Data key="installedLanguages">en_US</Data>
+    </Payload>
+    <Other adobeCode="V7{}Dreamweaver-18-Mac-GM">
+        <!-- Will be filled in from productinfo.xml before building installer -->
+        <!-- Note: This is a mac-only serial -->
+        <Data key="EPIC_APP">Adobe Dreamweaver CC 2018</Data>
+        <Data key="EPIC_APP_192">Adobe Dreamweaver CC 2018</Data>
+        <Data key="LicensingCode">V7{}Dreamweaver-18-Mac-GM</Data>
+        <Data key="PayloadCode">{DRWV-18.0-64-ADBEADBEADBEADBEADBEADB}</Data>
+        <Data key="TrialSerialNumber">979097065964606565411195</Data>
+    </Other>
+    <Other adobeCode="/adobe/bridgetalk/dreamweaver-18.0">
+        <Data key="Specifier">dreamweaver-18.0</Data>
+        <Data key="ExecutableBasename">Dreamweaver</Data>
+        <Data key="DisplayName">Adobe Dreamweaver CC 2018</Data>
+        <Data key="WindowClassName">_macr_dreamweaver_frame_window_</Data>
+    </Other>
+</Configuration>
